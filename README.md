@@ -1,6 +1,11 @@
-The Odin Project
-
-Projeto Odin Recipes
-
-Estrutura em HTML para site de receitas utilizando todo o aprendizado 
-fixado até o ponto do curso.
+#Odin Recipes
+***
+This Recipes project is a basic website, created as part of [The Odin 
+Project 
+curriculum.](https://www.theodinproject.com/lessons/foundations-recipes)
+***
+##Skills Learned
+* HTML Boilerplate
+* Images and links
+* Git comands
+* Good commits pratice
